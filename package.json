@@ -15,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1048.0",
     "body-parser": "^1.17.2",
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.2",
@@ -29,7 +30,7 @@
     "puppeteer": "^1.0.0",
     "redis": "^2.8.0",
     "safe-buffer": "^5.2.1",
-    "uuid": "^3.2.1"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
